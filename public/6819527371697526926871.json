@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618764236773",
+    "project_id": "hadlyee",
+    "storage_bucket": "hadlyee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618764236773:android:2aad6272c84cd084a7e10c",
+        "android_client_info": {
+          "package_name": "com.hadlyee.caracekbansos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YtY7uofFoYQZ2wrXSFBHv2Vu_nBbatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618764236773:android:d142f1a3b636e52da7e10c",
+        "android_client_info": {
+          "package_name": "com.hadlyee.caradaftarkartuprakerja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YtY7uofFoYQZ2wrXSFBHv2Vu_nBbatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
